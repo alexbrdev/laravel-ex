@@ -1,0 +1,21 @@
+{
+  "name": "Laravel Pack",
+  "authors": [
+    "Ivan Kolesnikov <impalago@yandex.ru>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "~4.17.37",
+    "moment": "~2.10.6",
+    "jquery-confirm2": "craftpip/jquery-confirm#~2.0.0"
+  }
+}
